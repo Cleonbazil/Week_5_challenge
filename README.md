@@ -21,7 +21,7 @@
 7. ### **<font color = 'blue'>Determine the Week with the Most Women's Athletic Footwear Sales</font>**
    **In the efforts to provide greater specificity in our insights in sections 6 and 7 a time frame is added dayli and weekly respectively.
      The overall trend of this analysis is from general to specific from location,to product, to time frame, in this final part the 'resample'
-     method was used.**
+     method was used.<br>**
    **Its worth noting the discrepancy in the instructions between the bootcamp module and the notebook rubric, in the bootcamp module for sections 6 & 7
      the tables are in descending order and in the rubric in ascending order, for the sake of completeness we have provided both.**
    
